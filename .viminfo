@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :x!
-|2,0,1694858037,,"x!"
+|2,0,1694858678,,"x!"
 :wq
 |2,0,1694856968,,"wq"
 
@@ -27,22 +27,32 @@
 # Registers:
 
 # File marks:
-'0  1  65  ~/jay/java.html
-|4,48,1,65,1694858037,"~/jay/java.html"
-'1  1  20  ~/.git/COMMIT_EDITMSG
-|4,49,1,20,1694857140,"~/.git/COMMIT_EDITMSG"
-'2  1  42  ~/jay/index.html
-|4,50,1,42,1694857029,"~/jay/index.html"
-'3  1  40  ~/index.html
-|4,51,1,40,1694856968,"~/index.html"
+'0  1  44  ~/java.html
+|4,48,1,44,1694858678,"~/java.html"
+'1  1  65  ~/jay/java.html
+|4,49,1,65,1694858037,"~/jay/java.html"
+'2  1  20  ~/.git/COMMIT_EDITMSG
+|4,50,1,20,1694857140,"~/.git/COMMIT_EDITMSG"
+'3  1  42  ~/jay/index.html
+|4,51,1,42,1694857029,"~/jay/index.html"
+'4  1  40  ~/index.html
+|4,52,1,40,1694856968,"~/index.html"
 
 # Jumplist (newest first):
+-'  1  44  ~/java.html
+|4,39,1,44,1694858678,"~/java.html"
+-'  1  65  ~/jay/java.html
+|4,39,1,65,1694858037,"~/jay/java.html"
 -'  1  65  ~/jay/java.html
 |4,39,1,65,1694858037,"~/jay/java.html"
 -'  1  20  ~/.git/COMMIT_EDITMSG
 |4,39,1,20,1694857140,"~/.git/COMMIT_EDITMSG"
 -'  1  20  ~/.git/COMMIT_EDITMSG
 |4,39,1,20,1694857140,"~/.git/COMMIT_EDITMSG"
+-'  1  20  ~/.git/COMMIT_EDITMSG
+|4,39,1,20,1694857140,"~/.git/COMMIT_EDITMSG"
+-'  1  20  ~/.git/COMMIT_EDITMSG
+|4,39,1,20,1694857140,"~/.git/COMMIT_EDITMSG"
 -'  1  42  ~/jay/index.html
 |4,39,1,42,1694857029,"~/jay/index.html"
 -'  1  42  ~/jay/index.html
@@ -51,6 +61,30 @@
 |4,39,1,42,1694857029,"~/jay/index.html"
 -'  1  42  ~/jay/index.html
 |4,39,1,42,1694857029,"~/jay/index.html"
+-'  1  42  ~/jay/index.html
+|4,39,1,42,1694857029,"~/jay/index.html"
+-'  1  42  ~/jay/index.html
+|4,39,1,42,1694857029,"~/jay/index.html"
+-'  1  42  ~/jay/index.html
+|4,39,1,42,1694857029,"~/jay/index.html"
+-'  1  42  ~/jay/index.html
+|4,39,1,42,1694857029,"~/jay/index.html"
+-'  1  40  ~/index.html
+|4,39,1,40,1694856968,"~/index.html"
+-'  1  40  ~/index.html
+|4,39,1,40,1694856968,"~/index.html"
+-'  1  40  ~/index.html
+|4,39,1,40,1694856968,"~/index.html"
+-'  1  40  ~/index.html
+|4,39,1,40,1694856968,"~/index.html"
+-'  1  40  ~/index.html
+|4,39,1,40,1694856968,"~/index.html"
+-'  1  40  ~/index.html
+|4,39,1,40,1694856968,"~/index.html"
+-'  1  40  ~/index.html
+|4,39,1,40,1694856968,"~/index.html"
+-'  1  40  ~/index.html
+|4,39,1,40,1694856968,"~/index.html"
 -'  1  40  ~/index.html
 |4,39,1,40,1694856968,"~/index.html"
 -'  1  40  ~/index.html
@@ -69,6 +103,13 @@
 |4,39,1,40,1694856968,"~/index.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/java.html
+	*	1694858674	0
+	"	1	44
+	^	1	45
+	.	1	44
+	+	1	44
 
 > ~/jay/java.html
 	*	1694858034	0
